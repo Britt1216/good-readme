@@ -7,6 +7,20 @@ Creating a good ReadMe to engage the people and provide a good description of wh
 
 -Installation
 
+1. Get a free API Key at https://github.com/marketplace/actions/readme-api-github-sync
+
+2. Clone the repo
+
+3. git clone https://github.com/your_username_/Project-Name.git
+
+4. Install NPM packages
+
+5. npm install
+
+6. Enter your API in config.js
+
+7. const API_KEY = 'ENTER YOUR API';
+
 -Usage
 
 -License
