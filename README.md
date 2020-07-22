@@ -26,7 +26,9 @@ uses: readmeio/github-readme-sync@2.0.0  <!-- GitHub API -->
 
 * Usage
 
-* License <!--link license here-->
+## License <!--link license here-->
+
+
 
 * Contributing
 
@@ -42,10 +44,10 @@ Contributions are what make the open source community such an great place to be 
 
 5. Open a Pull Request
 
-
 * Tests
 
 * Questions
 
+Please feel free to contact me with any questions about this or any other project.
 
 Contributions are always welcome! Please read the contribution guidelines first.
