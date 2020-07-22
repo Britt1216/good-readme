@@ -1,9 +1,5 @@
 <!-- PROJECT LOGO -->
 <br />
-<p align="center>
-  <a href="https://github.com/Britt1216/good-readme">
-    <img src="./assets.icon.png" alt="readme icon" width="80" height="80">
-  </a>
 
   <h3 align="center">Good ReadMe </h3>
 
