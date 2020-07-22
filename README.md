@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Britt1216/good-readme">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="icon.png" alt="readme icon" width="80" height="80">
   </a>
 
   <h3 align="center">YOUR_TITLE</h3>
