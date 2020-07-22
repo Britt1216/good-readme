@@ -43,7 +43,7 @@ uses: readmeio/github-readme-sync@2.0.0  <!-- GitHub API -->
 
 * License <!--link license here-->
 
-
+Please see additional documentation for license information. 
 
 * Contributing
 
