@@ -5,7 +5,7 @@ Creating a good ReadMe to engage the people and provide a good description of wh
 
 # Table of Contents
 
--Installation
+* Installation
 
 1. Get a free API Key at https://github.com/marketplace/actions/readme-api-github-sync
 
@@ -21,11 +21,14 @@ Creating a good ReadMe to engage the people and provide a good description of wh
 
 7. const API_KEY = 'ENTER YOUR API';
 
--Usage
+name: ReadMe API GitHub Sync
+uses: readmeio/github-readme-sync@2.0.0  <!-- GitHub API -->
 
--License
+* Usage
 
--Contributing
+* License <!--link license here-->
+
+* Contributing
 
 Contributions are what make the open source community such an great place to be learn, inspire, and create. Please feel free to contribute!
 
@@ -39,12 +42,10 @@ Contributions are what make the open source community such an great place to be 
 
 5. Open a Pull Request
 
-name: ReadMe API GitHub Sync
-uses: readmeio/github-readme-sync@2.0.0  <!-- GitHub API -->
 
--Tests
+* Tests
 
--Questions
+* Questions
 
 
 Contributions are always welcome! Please read the contribution guidelines first.
