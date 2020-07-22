@@ -26,7 +26,7 @@ uses: readmeio/github-readme-sync@2.0.0  <!-- GitHub API -->
 
 * Usage
 
-## License <!--link license here-->
+* License <!--link license here-->
 
 
 
