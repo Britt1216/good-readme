@@ -1,6 +1,28 @@
 # Good ReadMe 
 
-Creating a good ReadMe to engage the people and provide a good description of what our project is. It is also good to include who the focus group is and why this site or project exists. <!--(-Description)-->
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/Britt1216/good-readme">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">YOUR_TITLE</h3>
+
+  <p align="center">
+ Creating a good ReadMe to engage the people and provide a good description of what our project is. It is also good to include who the focus group is and why this site or project exists. <!--(-Description)-->
+    <br />
+    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/github_username/repo">View Demo</a>
+    ·
+    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
+  </p>
+</p>
 
 
 # Table of Contents
