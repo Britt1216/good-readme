@@ -1,22 +1,15 @@
-<!-- Minimum Application Requirements -->
--Meets Submission Requirements in the following section.
--Functional application.
--GitHub repository with a unique name and a README describing project.
+Please ensure your pull request adheres to the following guidelines:
 
-<!-- # The generated README includes the following sections: -->
+-Alphabetize your entry.
+-Search previous suggestions before making a new one, as yours may be a duplicate.
+-Suggested READMEs should be beautiful or stand out in some way.
+-Make an individual pull request for each suggestion.
+-New categories, or improvements to the existing categorization are welcome.
+-Keep descriptions short and simple, but descriptive.
+-Start the description with a capital and end with a full stop/period.
+-Check your spelling and grammar.
+-Make sure your text editor is set to remove trailing whitespace.
+-Use the #readme anchor for GitHub READMEs to link them directly
 
--Title
--Description
--Table of Contents
--Installation
--Usage
--License
--Contributing
--Tests
--Questions
-
-# The generated README includes 1 badge that's specific to the repository.
-
-- name: ReadMe API GitHub Sync
-  uses: readmeio/github-readme-sync@2.0.0
+Thank you for your suggestions!
 

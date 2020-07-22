@@ -1,4 +1,4 @@
-# Good ReadMe (-Title)
+# Good ReadMe 
 
 
 <!--(-Description)-->
@@ -15,12 +15,9 @@
 name: ReadMe API GitHub Sync
 uses: readmeio/github-readme-sync@2.0.0  <!-- GitHub API -->
 
+Contributions are always welcome! Please read the contribution guidelines first.
+
 -Tests
 
 -Questions
 
-<!--(-Installation)-->
-<!--(-License)-->
-<!--(-Contributing)-->
-<!--(-Tests)-->
-<!--(-Questions)-->
