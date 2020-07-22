@@ -1,14 +1,11 @@
-# Good ReadMe 
-
-
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
+<p align="center>
   <a href="https://github.com/Britt1216/good-readme">
-    <img src="icon.png" alt="readme icon" width="80" height="80">
+    <img src="./assets.icon.png" alt="readme icon" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Good ReadMe </h3>
 
   <p align="center">
  Creating a good ReadMe to engage the people and provide a good description of what our project is. It is also good to include who the focus group is and why this site or project exists. <!--(-Description)-->
@@ -16,11 +13,11 @@
     <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
+    <a href="https://britt1216.github.io/good-readme/">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
+    <a href="https://github.com/github_Britt1216/repo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
+    <a href="https://github.com/github_Britt1216/repo/issues">Request Feature</a>
   </p>
 </p>
 
