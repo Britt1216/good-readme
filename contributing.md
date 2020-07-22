@@ -16,3 +16,7 @@
 -Questions
 
 # The generated README includes 1 badge that's specific to the repository.
+
+- name: ReadMe API GitHub Sync
+  uses: readmeio/github-readme-sync@2.0.0
+
